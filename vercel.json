@@ -12,6 +12,18 @@
             "dest": "/images/$1"
         },
         {
+            "src": "/favicon.ico",
+            "dest": "/favicon.ico"
+        },
+        {
+            "src": "/favicon.svg",
+            "dest": "/favicon.svg"
+        },
+        {
+            "src": "/site.webmanifest",
+            "dest": "/site.webmanifest"
+        },
+        {
             "src": "/(.*)",
             "dest": "/index.html"
         }

@@ -1,0 +1,16 @@
+{
+    "name": "Nguyễn Đức Mạnh - Thiết kế Website",
+    "short_name": "NDM Design",
+    "description": "Chuyên thiết kế Website chuyên nghiệp & hiện đại",
+    "icons": [
+        {
+            "src": "./favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ],
+    "theme_color": "#667eea",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/"
+}
