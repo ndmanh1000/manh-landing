@@ -11,6 +11,16 @@
         >
     <title>8/3</title>
 </head>
+<script>
+    
+onload = () => {
+    const c = setTimeout(() => {
+        document.body.classList.remove("not-loaded");
+        clearTimeout(c);
+    }, 1000);
+};
+
+</script>
 <style>
     
 
@@ -1342,7 +1352,7 @@ body {
         </div>
     </div>
 
-    <script src="valentine-flower.js"></script>
+    
 </body>
 
 </html>
